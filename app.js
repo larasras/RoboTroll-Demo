@@ -7,6 +7,7 @@ var session = require("express-session");
 var swig = require("swig");
 
 var indexRouter = require("./routes/index");
+var storyRouter = require("./routes/story");
 
 var app = express();
 
@@ -30,5 +31,6 @@ app.use(
 );
 
 app.use("/", indexRouter);
+app.use("/story", storyRouter);
 
 module.exports = app;

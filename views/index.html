@@ -66,10 +66,11 @@
                         "
                       >
                         <span class="robotroll-text css-1qggkls">
-                          <p>Select your tone:</p>
+                          <p>Select your genre:</p>
                         </span>
                       </div>
                       <select
+                        id="select_genre"
                         class="
                           robotroll-block
                           robotroll-80b716df5b824cadb8119493c0d28907
@@ -77,20 +78,22 @@
                           css-1u6f4jk
                         "
                       >
-                        <option value="option 1">option 1</option>
-                        <option value="option 2">option 2</option>
+                        <option value="fantasy">Fantasy</option>
+                        <option value="scifi">Sci-Fi</option>
                       </select>
                     </div>
                   </div>
-                  <span
+                  <button
+                    id="submit"
                     class="
                       robotroll-block
                       robotroll-afa90e4dd4104834babc8f88fc359858
                       robotroll-has-component
                       css-1vf3r1k
                     "
-                    >Click me!</span
                   >
+                    Generate Story
+                  </button>
                   <div class="robotroll-block robotroll-pv4hwavs6ac css-93kutk">
                     <div
                       class="
@@ -111,7 +114,7 @@
                       "
                     >
                       <span class="robotroll-text css-1qggkls">
-                        <p>
+                        <p id="story">
                           Heather Cockle looked at the stripy torch in her hands
                           and felt concerned. She walked over to the window and
                           reflected on her noisy surroundings. She had always
@@ -139,5 +142,7 @@
         </div>
       </div>
     </div>
+    <script src="/javascripts/jquery-3.6.0.min.js"></script>
+    <script src="/javascripts/storyrequest.js"></script>
   </body>
 </html>

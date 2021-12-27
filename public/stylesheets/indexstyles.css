@@ -1,0 +1,285 @@
+a,
+b,
+body,
+dd,
+div,
+figure,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+html,
+i,
+img,
+p,
+q,
+s,
+span,
+u {
+  border: 0;
+  font: inherit;
+  margin: 0;
+  padding: 0;
+  vertical-align: baseline;
+}
+body {
+  font-family: sans-serif;
+  line-height: 1;
+}
+figure {
+  display: block;
+}
+q {
+  quotes: none;
+}
+q:after,
+q:before {
+  content: none;
+}
+.robotroll-text h1 {
+  font-size: 2em;
+  font-weight: 700;
+  margin-bottom: 0.67em;
+  margin-top: 0.67em;
+}
+.robotroll-text h2 {
+  font-size: 1.5em;
+  font-weight: 700;
+  margin-bottom: 0.83em;
+  margin-top: 0.83em;
+}
+.robotroll-text h3 {
+  font-size: 1.17em;
+  font-weight: 700;
+}
+.robotroll-text h4 {
+  font-weight: 700;
+  margin-bottom: 1.33em;
+  margin-top: 1.33em;
+}
+.robotroll-text h5 {
+  font-size: 0.83em;
+  font-weight: 700;
+  margin-bottom: 1.67em;
+  margin-top: 1.67em;
+}
+.robotroll-text h6 {
+  font-size: 0.67em;
+  font-weight: 700;
+  margin-bottom: 2.33em;
+  margin-top: 2.33em;
+}
+.robotroll-text h3,
+.robotroll-text p {
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
+.robotroll-text p:first-of-type,
+.css-1qggkls p:first-of-type {
+  margin: 0;
+}
+.robotroll-text u {
+  text-decoration: underine;
+}
+html {
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+* {
+  box-sizing: border-box;
+}
+#main {
+  margin: 0 auto;
+  max-width: 1200px;
+  padding: 0 20px;
+}
+.css-1akjxjh.robotroll-block,
+.css-1onwrvx.robotroll-block,
+.css-h47494 {
+  display: flex;
+  flex-direction: column;
+}
+.css-1onwrvx.robotroll-block,
+.css-h47494 {
+  align-items: stretch;
+}
+.css-1onwrvx.robotroll-block {
+  -webkit-box-pack: start;
+  -ms-flex-pack: start;
+  background-image: url(/src/bg.jpg);
+  background-position: 50%;
+  background-size: cover;
+  height: 100vh;
+  justify-content: flex-start;
+  margin-left: calc(50% - 50vw);
+  padding: 10px;
+  width: 100vw;
+}
+.css-1akjxjh.robotroll-block {
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 140px 40px 40px 140px;
+}
+.css-k484z2.robotroll-block,
+.css-ruqq4c.robotroll-block {
+  color: #fff;
+  font-family: Poppins, sans-serif;
+  -webkit-letter-spacing: 0;
+  -moz-letter-spacing: 0;
+  -ms-letter-spacing: 0;
+  letter-spacing: 0;
+  max-width: 1200px;
+  text-align: left;
+}
+.css-k484z2.robotroll-block {
+  font-size: 37pt;
+  font-weight: 600;
+  line-height: 74px;
+  margin-bottom: 20px;
+}
+.css-1qggkls {
+  outline: 0;
+}
+.css-1qggkls > p {
+  color: inherit;
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  -webkit-letter-spacing: inherit;
+  -moz-letter-spacing: inherit;
+  -ms-letter-spacing: inherit;
+  letter-spacing: inherit;
+  line-height: inherit;
+  text-align: inherit;
+}
+.css-ruqq4c.robotroll-block {
+  font-size: 21pt;
+  line-height: 42px;
+  margin-top: 10px;
+}
+.css-1m2mfxh.robotroll-block {
+  -webkit-box-pack: start;
+  -ms-flex-pack: start;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin-top: 40px;
+  padding: 0 40px 0 140px;
+}
+.css-1m2mfxh.robotroll-block,
+.css-4zr1oc.robotroll-block,
+.css-16zctzr.robotroll-block {
+  display: flex;
+}
+.css-16zctzr.robotroll-block {
+  -webkit-box-pack: start;
+  -ms-flex-pack: start;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 1200px;
+}
+.css-4zr1oc.robotroll-block {
+  flex-direction: row;
+}
+.css-1oaxn0c.robotroll-block {
+  color: #fff;
+  font-family: Poppins, sans-serif;
+  font-size: 21pt;
+  -webkit-letter-spacing: 0;
+  -moz-letter-spacing: 0;
+  -ms-letter-spacing: 0;
+  letter-spacing: 0;
+  line-height: 42px;
+  margin-bottom: auto;
+  margin-right: 20px;
+  margin-top: auto;
+  text-align: left;
+}
+.css-1u6f4jk.robotroll-block,
+.css-1vf3r1k.robotroll-block,
+.css-93kutk.robotroll-block {
+  display: flex;
+  flex-direction: column;
+}
+.css-1u6f4jk.robotroll-block {
+  -ms-flex-negative: 0;
+  align-self: flex-start;
+  background-color: #1b43c1;
+  border-radius: 20px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #fff;
+  flex-shrink: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 16pt;
+  margin-bottom: auto;
+  margin-top: auto;
+  padding: 5px 5px 5px 20px;
+  position: relative;
+}
+.css-1vf3r1k.robotroll-block,
+.css-93kutk.robotroll-block {
+  margin-top: 10px;
+}
+.css-1vf3r1k.robotroll-block {
+  -ms-flex-negative: 0;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background-color: #1b43c1;
+  border-radius: 20px;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  flex-shrink: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 21px;
+  margin-bottom: 20px;
+  padding: 15px 25px;
+  position: relative;
+  text-align: center;
+}
+.css-93kutk.robotroll-block {
+  -webkit-box-pack: start;
+  -ms-flex-pack: start;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 1200px;
+  padding: 10px;
+}
+.css-q0uor0.robotroll-block,
+.css-yaxr2i.robotroll-block {
+  color: #fff;
+  font-family: Poppins, sans-serif;
+  -webkit-letter-spacing: 0;
+  -moz-letter-spacing: 0;
+  -ms-letter-spacing: 0;
+  letter-spacing: 0;
+  text-align: left;
+}
+.css-yaxr2i.robotroll-block {
+  font-size: 21pt;
+  margin-bottom: 20px;
+}
+.css-q0uor0.robotroll-block {
+  font-size: 16pt;
+  line-height: 32px;
+  margin-top: 10px;
+}
+.css-1mvsfya.robotroll-block {
+  display: inline-block;
+  height: 0;
+  opacity: 0;
+  overflow: hidden;
+  pointer-events: none;
+  width: 0;
+}

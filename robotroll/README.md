@@ -38,12 +38,7 @@
 <!-- Preparing -->
 ## Preparing Dataset
 The first step for configuring RoboTroll inside the serverside is traning the dataset. Let's say we have dataset with the following structure:
-| x1  | x2  |  x3 |  ... |  y |
-|---|---|---|---|---|
-|  1 |  x21 |  x31 | ...  |  y1 |
-|  1 |  x22 |  x32 |  ... |  y2 |
-|  ... |  ... | ...  | ...  | ...  |
-|  n |  x2n |  x3n | ...  |  yn |
+[Table](https://github.com/larasras/RoboTroll-Demo/blob/main/public/src/Table.png)
 X variable is the difference between two request times which user/robot does. Y has two values which is 0 for human, and one for robot.
 
 <p align="right">(<a href="#top">back to top</a>)</p>

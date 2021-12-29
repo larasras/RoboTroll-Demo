@@ -67,9 +67,9 @@ For more information, see the [demo](https://github.com/larasras/RoboTroll-Demo)
 
 <!-- Contact -->
 ## Contact
-* [Ali Nurdin]([https://github.com/alinrdinn](https://github.com/alinrdinn))
+* [Ali Nurdin](https://github.com/alinrdinn)
 * [Farra Jessica](https://github.com/FarraJessica)
-* [Laras Rasdiyani]([https://github.com/larasras](https://github.com/larasras))
+* [Laras Rasdiyani](https://github.com/larasras)
 
 * Project Link: [[RoboTroll](https://github.com/larasras/RoboTroll-Demo)]
 <p align="right">(<a href="#top">back to top</a>)</p>

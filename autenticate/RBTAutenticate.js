@@ -9,6 +9,10 @@ const maximum_behavior = 10;
 const max_age = 30000;
 
 exports.verifyRobot = (req, res, next) => {
+  if (req.query.robot_is !== "true") {
+    next();
+    return;
+  }
   if (+new Date() - req.session.maxAge >= max_age) {
     req.session.rtt = undefined;
   }

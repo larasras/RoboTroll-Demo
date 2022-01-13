@@ -114,8 +114,8 @@ a {
   -ms-flex-pack: start;
   background-image: url(/src/bg.jpg);
   background-position: 50%;
-  background-size: cover;
-  height: 100vh;
+  background-size: auto;
+  background-repeat: repeat-y;
   justify-content: flex-start;
   margin-left: calc(50% - 50vw);
   padding: 10px;
